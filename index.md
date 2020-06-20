@@ -12,3 +12,8 @@ Picard is one of the legendary captains of the star ship Enterprise. He is a ser
 * loyal
 * passionate
 * compassionate
+
+
+## Quote
+Typical statement:
+> Shut up, Data.
