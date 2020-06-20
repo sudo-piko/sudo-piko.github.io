@@ -17,3 +17,6 @@ Picard is one of the legendary captains of the star ship Enterprise. He is a ser
 ## Quote
 Typical statement:
 > Shut up, Data.
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/PatrickStewart2004-08-03.jpg/255px-PatrickStewart2004-08-03.jpg">
